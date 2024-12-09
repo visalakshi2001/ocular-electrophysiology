@@ -1,0 +1,8 @@
+a-comprehensive-dataset-of-pattern-electroretinograms-for-ocular-electrophysiology-research-the-perg-ioba-dataset-1.0.0
+
+Title: 
+	A Comprehensive Dataset of Pattern Electroretinograms for Ocular Electrophysiology Research: The PERG-IOBA Dataset
+Source: 
+	https://physionet.org/content/perg-ioba-dataset/1.0.0/#files-panel
+Citation: 
+	Fernández, I., Cuadrado Asensio, R., Larriba, Y., Rueda, C., & Coco-Martin, R. M. (2024). A Comprehensive Dataset of Pattern Electroretinograms for Ocular Electrophysiology Research: The PERG-IOBA Dataset (version 1.0.0). PhysioNet. https://doi.org/10.13026/d24m-w054.
